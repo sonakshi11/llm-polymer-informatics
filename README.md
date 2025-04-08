@@ -14,8 +14,6 @@ cd property-prediction
 2. Install dependencies:
 ```bash
 source env.sh
-```
-```bash
 pip install -r requirements.txt
 ```
 
